@@ -1,0 +1,39 @@
+.form-container {
+  width: 500px;
+  height: 600px;
+  border-radius: 8px;
+  margin: 20px auto;
+  border: 1px solid #95a0a7;
+  background: #fff;
+}
+
+.form-title {
+  font-family: Lato;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  color: #2a414f;
+  letter-spacing: 0.088px;
+}
+.form-control {
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+.form-control label {
+  display: block;
+  margin-bottom: 10px;
+  font-family: Lato;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.026px;
+}
+.form-control input {
+  width: 415px;
+  height: 55px;
+  border-radius: 5px;
+  border: 1px solid #95a0a7;
+  padding-left: 10px;
+  font-size: 27px;
+}
