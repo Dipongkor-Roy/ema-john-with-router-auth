@@ -17,3 +17,15 @@
 .header a:hover{
     color: orange;
 }
+.btn-logout{
+    background-color: #fbb142;
+    margin:10px;
+    padding: 7px;
+    border-radius: 5px;
+    border: none;
+    
+}
+.btn-logout:hover{
+    background-color: #f49a12;
+    color:white;
+}
