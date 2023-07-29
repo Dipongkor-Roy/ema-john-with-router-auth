@@ -5,6 +5,7 @@
   margin: 20px auto;
   border: 1px solid #95a0a7;
   background: #fff;
+  padding-left: 40px;
 }
 
 .form-title {
@@ -17,7 +18,6 @@
   letter-spacing: 0.088px;
 }
 .form-control {
-  margin-left: 40px;
   margin-bottom: 20px;
 }
 .form-control label {
@@ -35,5 +35,25 @@
   border-radius: 5px;
   border: 1px solid #95a0a7;
   padding-left: 10px;
-  font-size: 27px;
+  font-size: 1.5rem;
+}
+.btn-submit {
+  width: 415px;
+  height: 55px;
+  margin-top: 25px;
+  font-size: 21px;
+  border-radius: 5px;
+  letter-spacing: 0.0015em;
+  background: rgba(255, 153, 0, 0.3);
+  border:none;
+}
+.btn-submit:hover{
+  background: rgba(255, 153, 0, 0.6);
+}
+.text-down-btn{
+  text-align: center;
+}
+.new-acc{
+  text-decoration: none;
+  color:#F90;
 }
